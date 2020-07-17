@@ -1,2 +1,4 @@
 hi this is a new file that i am creating for you thank you very much
 much love, anh
+this is post 
+git pull origin sanya
